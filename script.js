@@ -1,10 +1,10 @@
 // daftar produk dengan gambar 
 const product = [
-    { id: 1, name: 'AQUA', price: 2000, img: 'img:/aqua.jpg'},
-    { id: 2, name: 'BONCABE', price: 1000, img: 'ing/boncabe.webp'},
-    { id: 3, name: 'CHOCOPIE', price: 2000, img: 'img/chocopie.jpg'},
-    { id: 4, name: 'MAXICORN', price: 2000, img: 'img/maxicorn.jpg'},
-    { id: 5, name: 'QTELLA', price: 2000, img: 'img/qtella.jpg'},
+    { id: 1, name: 'aleale', price: 2000, img: 'aleale.jpg'},
+    { id: 2, name: 'hothot', price: 1000, img: 'hothot.jpg'},
+    { id: 3, name: 'malkis', price: 2000, img: 'malkis.jpg'},
+    { id: 4, name: 'powerf', price: 2000, img: 'powerf.jpg'},
+    { id: 5, name: 'wakuwaku', price: 2000, img: 'wakuwaku.jpg'},
 ];
 
 // kerajang belanja 
